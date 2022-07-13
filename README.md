@@ -1,5 +1,5 @@
-# HW_Week07_Day04_MVVM
-The homework must be submitted before Sunday, November 28th at 9:00AM ⚠️
+# MVVM
+ ⚠️
 
 # What you'll build 📋
 ### In addition to your lab, you'll implement the following features:
@@ -13,7 +13,7 @@ The homework must be submitted before Sunday, November 28th at 9:00AM ⚠️
 - Will display the information of the user
 - Cache images
 
-The main purpose of the homework is to follow MVVM pattern
+The main purpose of this is to follow MVVM pattern
 
 ### UI Sample 
 <img src="dribbble-shot-full.png" alt="drawing" width="300"/>
